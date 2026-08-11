@@ -1,0 +1,5 @@
+[+] AC Cheat cargando...
+[+] Base: 00400000
+[+] SDL2 OK
+[+] SwapWindow @ 74c0f0b0
+[+] Hook OK | INSERT=Menu F1=ESP F2=Aimbot F3=NoRecoil F4=InfAmmo END=Salir

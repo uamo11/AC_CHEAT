@@ -1,0 +1,5 @@
+ac_client.asm
+*.zip
+*.o
+.vscode/
+temp_imgui/
