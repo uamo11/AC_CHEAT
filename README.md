@@ -25,3 +25,7 @@ Pre-compiled binaries are intentionally **NOT** provided. To study the code in a
 
 ## License
 MIT License. See the code for details. Use responsibly and at your own risk.
+
+---
+
+More projects at [uam.lol](https://uam.lol)
